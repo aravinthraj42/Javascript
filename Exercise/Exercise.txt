@@ -1,0 +1,4 @@
+1. is_Multiple -
+2. is_even - Withoout Multiplication,modulo,division - bitwise Operator Used
+3. minmax - without inbuilt function - forloop
+4.print all square number below given number - for and if
